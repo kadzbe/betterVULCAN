@@ -1,0 +1,228 @@
+[
+    {
+        "przedmiotNazwa": "Religia",
+        "oceny": [
+            {
+                "wpis": "5",
+                "kolorOceny": 0,
+                "id": 3676460
+            }
+        ],
+        "id": 1
+    },
+    {
+        "przedmiotNazwa": "Język polski",
+        "oceny": [
+            {
+                "wpis": "2-",
+                "kolorOceny": 0,
+                "id": 3666390
+            },
+            {
+                "wpis": "3-",
+                "kolorOceny": 0,
+                "id": 3663648
+            }
+        ],
+        "id": 4
+    },
+    {
+        "przedmiotNazwa": "Język angielski",
+        "oceny": [
+            {
+                "wpis": "4+",
+                "kolorOceny": 0,
+                "id": 3662810
+            },
+            {
+                "wpis": "3+",
+                "kolorOceny": 0,
+                "id": 3656047
+            }
+        ],
+        "id": 5
+    },
+    {
+        "przedmiotNazwa": "Język hiszpański",
+        "oceny": [
+            {
+                "wpis": "3+",
+                "kolorOceny": 11627761,
+                "id": 3675737
+            },
+            {
+                "wpis": "+ (+)",
+                "kolorOceny": 7261447,
+                "id": 3664339
+            }
+        ],
+        "id": 7
+    },
+    {
+        "przedmiotNazwa": "Historia",
+        "oceny": [
+            {
+                "wpis": "2+ (zal.)",
+                "kolorOceny": 0,
+                "id": 3665338
+            }
+        ],
+        "id": 50
+    },
+    {
+        "przedmiotNazwa": "Matematyka",
+        "oceny": [
+            {
+                "wpis": "3+",
+                "kolorOceny": 15748172,
+                "id": 3673309
+            },
+            {
+                "wpis": "6",
+                "kolorOceny": 7261447,
+                "id": 3661065
+            }
+        ],
+        "id": 58
+    },
+    {
+        "przedmiotNazwa": "Fizyka",
+        "oceny": [
+            {
+                "wpis": "4+",
+                "kolorOceny": 15748172,
+                "id": 3676316
+            },
+            {
+                "wpis": "1+",
+                "kolorOceny": 15748172,
+                "id": 3665769
+            }
+        ],
+        "id": 59
+    },
+    {
+        "przedmiotNazwa": "Chemia",
+        "oceny": [
+            {
+                "wpis": "np.",
+                "kolorOceny": 0,
+                "id": 3675140
+            },
+            {
+                "wpis": "+",
+                "kolorOceny": 0,
+                "id": 3664729
+            },
+            {
+                "wpis": "4",
+                "kolorOceny": 0,
+                "id": 3658133
+            }
+        ],
+        "id": 61
+    },
+    {
+        "przedmiotNazwa": "Geografia",
+        "oceny": [
+            {
+                "wpis": "2+",
+                "kolorOceny": 0,
+                "id": 3670464
+            }
+        ],
+        "id": 64
+    },
+    {
+        "przedmiotNazwa": "Wychowanie fizyczne",
+        "oceny": [
+            {
+                "wpis": "5",
+                "kolorOceny": 0,
+                "id": 3673143
+            }
+        ],
+        "id": 75
+    },
+    {
+        "przedmiotNazwa": "Pracownia aplikacji internetowych",
+        "oceny": [
+            {
+                "wpis": "4",
+                "kolorOceny": 2139383,
+                "id": 3666725
+            },
+            {
+                "wpis": "2+",
+                "kolorOceny": 15748172,
+                "id": 3658652
+            }
+        ],
+        "id": 505
+    },
+    {
+        "przedmiotNazwa": "Projektowanie oprogramowania",
+        "oceny": [
+            {
+                "wpis": "4",
+                "kolorOceny": 0,
+                "id": 3671357
+            }
+        ],
+        "id": 2684
+    },
+    {
+        "przedmiotNazwa": "Pracownia programowania obiektowego",
+        "oceny": [
+            {
+                "wpis": "3+",
+                "kolorOceny": 15748172,
+                "id": 3663303
+            }
+        ],
+        "id": 2694
+    },
+    {
+        "przedmiotNazwa": "Pracownia podstaw programowania",
+        "oceny": [
+            {
+                "wpis": "4",
+                "kolorOceny": 15748172,
+                "id": 3676819
+            },
+            {
+                "wpis": "6",
+                "kolorOceny": 0,
+                "id": 3661039
+            }
+        ],
+        "id": 2696
+    },
+    {
+        "przedmiotNazwa": "Fizyka inżynierska",
+        "oceny": [
+            {
+                "wpis": "nb",
+                "kolorOceny": 15748172,
+                "id": 3675125
+            },
+            {
+                "wpis": "5",
+                "kolorOceny": 0,
+                "id": 3654882
+            }
+        ],
+        "id": 2702
+    },
+    {
+        "przedmiotNazwa": "Historia i teraźniejszość",
+        "oceny": [
+            {
+                "wpis": "4+",
+                "kolorOceny": 0,
+                "id": 3664503
+            }
+        ],
+        "id": 2791
+    }
+]
