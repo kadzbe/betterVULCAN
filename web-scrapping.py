@@ -79,10 +79,11 @@ class GetInfo:
             
             return grades
         
-login = "lockapo009@gmail.com"
-password = "K@cper2009"
+login = ""
+password = ""
 
 idk = GetInfo(login, password)
 
 print (idk.getGrades())
             
+
